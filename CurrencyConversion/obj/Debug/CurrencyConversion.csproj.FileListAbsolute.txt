@@ -1,0 +1,30 @@
+C:\Documents and Settings\Shanty\My Documents\Visual Studio 2008\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+C:\Documents and Settings\Shanty\My Documents\Visual Studio 2008\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+C:\Documents and Settings\Shanty\My Documents\Visual Studio 2008\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shanty\My Documents\Visual Studio 2008\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+C:\Documents and Settings\Shanty\My Documents\Visual Studio 2008\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
+D:\Open Colleges\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+D:\Open Colleges\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+D:\Open Colleges\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+D:\Open Colleges\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+D:\Open Colleges\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
+D:\Visual Studio 2017\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.dll
+D:\Visual Studio 2017\Projects\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+D:\Visual Studio 2017\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.dll
+D:\Visual Studio 2017\Projects\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb

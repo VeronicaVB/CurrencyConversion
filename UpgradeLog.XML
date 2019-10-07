@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CurrencyConversion">
+</Property><Property Name="Solution File" Value="L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\CurrencyConversion.sln">
+</Property><Property Name="User Options File" Value="L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\CurrencyConversion.suo">
+</Property><Property Name="Date" Value="25 April 2011">
+</Property><Property Name="Time" Value="19:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CurrencyConversion.sln" Description="File successfully backed up as L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\Backup\CurrencyConversion.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CurrencyConversion.suo" Description="File successfully backed up as L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\Backup\CurrencyConversion.suo">
+</Event><Event ErrorLevel="0" Project="CurrencyConversion" Source="CurrencyConversion\CurrencyConversion.csproj" Description="Project file successfully backed up as L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\Backup\CurrencyConversion\CurrencyConversion.csproj">
+</Event><Event ErrorLevel="0" Project="CurrencyConversion" Source="CurrencyConversion\ConvertCur.cs" Description="File successfully backed up as L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\Backup\CurrencyConversion\ConvertCur.cs">
+</Event><Event ErrorLevel="0" Project="CurrencyConversion" Source="CurrencyConversion\Properties\AssemblyInfo.cs" Description="File successfully backed up as L:\Tafe\Database PE2\Week 12\UnitTesting\CurrencyConversion\Backup\CurrencyConversion\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CurrencyConversion" Source="CurrencyConversion\CurrencyConversion.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CurrencyConversion" Source="CurrencyConversion\CurrencyConversion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CurrencyConversion.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CurrencyConversion.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CurrencyConversion" Source="CurrencyConversion\CurrencyConversion.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

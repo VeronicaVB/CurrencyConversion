@@ -1,0 +1,55 @@
+D:\Open Colleges\CurrencyConversion\Currency\bin\Debug\Currency.exe.config
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.Properties.Resources.resources
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.frmMain.resources
+D:\Open Colleges\CurrencyConversion\Currency\bin\Debug\Currency.exe
+D:\Open Colleges\CurrencyConversion\Currency\bin\Debug\Currency.pdb
+D:\Open Colleges\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.dll
+D:\Open Colleges\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.pdb
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.exe
+D:\Open Colleges\CurrencyConversion\Currency\obj\Debug\Currency.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\bin\Debug\Currency.exe.config
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.exe
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\bin\Debug\Currency.exe
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\bin\Debug\Currency.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.dll
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.pdb
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.frmMain.resources
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.Properties.Resources.resources
+P:\CourseDesign\CERT IV PROGRAMMING\7. ASSESSMENT\SP8 - Testing\CurrencyConversion\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\bin\Debug\Currency.exe.config
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.exe
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\bin\Debug\Currency.exe
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\bin\Debug\Currency.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.dll
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.frmMain.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\CurrencyConversion\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\bin\Debug\Currency.exe.config
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\bin\Debug\Currency.exe
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\bin\Debug\Currency.pdb
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.dll
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.pdb
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.frmMain.resources
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.Properties.Resources.resources
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.exe
+D:\Veronica\Educacion_Facultad\OpenColleges\Certificate IV Programming\Modules\Module_12_TestingApplications\Assessment\Part_C\CurrencyConversion\Currency\obj\Debug\Currency.pdb
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\bin\Debug\Currency.exe.config
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\bin\Debug\Currency.exe
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\bin\Debug\Currency.pdb
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.dll
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\bin\Debug\CurrencyConversion.pdb
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.frmMain.resources
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.exe
+D:\Visual Studio 2017\Projects\CurrencyConversion\Currency\obj\Debug\Currency.pdb
